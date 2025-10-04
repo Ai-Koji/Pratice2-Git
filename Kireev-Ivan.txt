@@ -1,1 +1,2 @@
 And this is my file from start that i forgot: my name
+new text to file
